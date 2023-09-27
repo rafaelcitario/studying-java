@@ -17,6 +17,7 @@ public class Arrays02 {
         animals[1] = "Cats";
         animals[2] = "Monkeys";
 
+
         for (String animal : animals) {
             System.out.println(animal);
         }
