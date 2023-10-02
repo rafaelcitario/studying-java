@@ -1,0 +1,8 @@
+Crie uma classe Funcionario com os seguintes atributos:
+nome
+idade
+salario // três salários devem ser guardados
+
+crie dois métodos:
+1 para imprimir dados
+2 para tirar a média dos salários e imprimir o resultado
