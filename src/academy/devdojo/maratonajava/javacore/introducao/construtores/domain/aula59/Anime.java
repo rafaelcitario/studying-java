@@ -25,7 +25,9 @@ public class Anime {
         System.out.println("Número de epsódios: " + this.epsodios);
         System.out.println("Número de temporadas: " + this.temporadas);
         System.out.println("capa: " + this.capa);
+
         System.out.println("");
+
     }
 
 
