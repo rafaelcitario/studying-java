@@ -9,7 +9,5 @@ public class AnimeTeste {
         Anime narutoShippuden = new Anime("Naruto Shippuden", "Shounen", 500, 10, "capa da temporada");
         naruto.imprimeinfos();
         narutoShippuden.imprimeinfos();
-
-
     }
 }
